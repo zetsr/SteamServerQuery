@@ -4,6 +4,12 @@
 
 2. 运行 **start.bat**
 
+### 控制台命令
+
+```example.com:27015```
+
+```127.0.0.1:27015```
+
 ### 启动命令
 
 ```node backend/server.js ```
