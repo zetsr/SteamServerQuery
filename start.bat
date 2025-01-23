@@ -1,0 +1,1 @@
+node backend/server.js --ip=0.0.0.0 --port=1337 --dedicated=false --force_lan=false --force_localhost=true
